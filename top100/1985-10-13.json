@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "date": "1985-10-13",
+    "title": "Take On Me",
+    "artist": "a-ha",
+    "link": "https://www.youtube.com/results?search_query=Take+On+Me+a-ha+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 2,
+    "date": "1985-10-13",
+    "title": "Saving All My Love For You",
+    "artist": "Whitney Houston",
+    "link": "https://www.youtube.com/results?search_query=Saving+All+My+Love+For+You+Whitney+Houston+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 3,
+    "date": "1985-10-13",
+    "title": "Part-Time Lover",
+    "artist": "Stevie Wonder",
+    "link": "https://www.youtube.com/results?search_query=Part-Time+Lover+Stevie+Wonder+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 4,
+    "date": "1985-10-13",
+    "title": "Oh Sheila",
+    "artist": "Ready For The World",
+    "link": "https://www.youtube.com/results?search_query=Oh+Sheila+Ready+For+The+World+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 5,
+    "date": "1985-10-13",
+    "title": "Miami Vice Theme",
+    "artist": "Jan Hammer",
+    "link": "https://www.youtube.com/results?search_query=Miami+Vice+Theme+Jan+Hammer+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 6,
+    "date": "1985-10-13",
+    "title": "Lonely Ol' Night",
+    "artist": "John Mellencamp",
+    "link": "https://www.youtube.com/results?search_query=Lonely+Ol%27+Night+John+Mellencamp+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 7,
+    "date": "1985-10-13",
+    "title": "Money For Nothing",
+    "artist": "Dire Straits",
+    "link": "https://www.youtube.com/results?search_query=Money+For+Nothing+Dire+Straits+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 8,
+    "date": "1985-10-13",
+    "title": "Dancing In The Street",
+    "artist": "David Bowie & Mick Jagger",
+    "link": "https://www.youtube.com/results?search_query=Dancing+In+The+Street+David+Bowie+%26+Mick+Jagger+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 9,
+    "date": "1985-10-13",
+    "title": "Fortress Around Your Heart",
+    "artist": "Sting",
+    "link": "https://www.youtube.com/results?search_query=Fortress+Around+Your+Heart+Sting+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 10,
+    "date": "1985-10-13",
+    "title": "Head Over Heels",
+    "artist": "Tears For Fears",
+    "link": "https://www.youtube.com/results?search_query=Head+Over+Heels+Tears+For+Fears+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 11,
+    "date": "1985-10-13",
+    "title": "I'm Goin' Down",
+    "artist": "Bruce Springsteen",
+    "link": "https://www.youtube.com/results?search_query=I%27m+Goin%27+Down+Bruce+Springsteen+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 12,
+    "date": "1985-10-13",
+    "title": "Lovin' Every Minute Of It",
+    "artist": "Loverboy",
+    "link": "https://www.youtube.com/results?search_query=Lovin%27+Every+Minute+Of+It+Loverboy+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 13,
+    "date": "1985-10-13",
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "link": "https://www.youtube.com/results?search_query=Cherish+Kool+%26+The+Gang+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 14,
+    "date": "1985-10-13",
+    "title": "Dress You Up",
+    "artist": "Madonna",
+    "link": "https://www.youtube.com/results?search_query=Dress+You+Up+Madonna+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 15,
+    "date": "1985-10-13",
+    "title": "You Belong To The City",
+    "artist": "Glenn Frey",
+    "link": "https://www.youtube.com/results?search_query=You+Belong+To+The+City+Glenn+Frey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 16,
+    "date": "1985-10-13",
+    "title": "I'm Gonna Tear Your Playhouse Down",
+    "artist": "Paul Young",
+    "link": "https://www.youtube.com/results?search_query=I%27m+Gonna+Tear+Your+Playhouse+Down+Paul+Young+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 17,
+    "date": "1985-10-13",
+    "title": "We Built This City",
+    "artist": "Starship",
+    "link": "https://www.youtube.com/results?search_query=We+Built+This+City+Starship+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 18,
+    "date": "1985-10-13",
+    "title": "Be Near Me",
+    "artist": "ABC",
+    "link": "https://www.youtube.com/results?search_query=Be+Near+Me+ABC+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 19,
+    "date": "1985-10-13",
+    "title": "One Night Love Affair",
+    "artist": "Bryan Adams",
+    "link": "https://www.youtube.com/results?search_query=One+Night+Love+Affair+Bryan+Adams+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 20,
+    "date": "1985-10-13",
+    "title": "Four In The Morning (I Can't Take Anymore)",
+    "artist": "Night Ranger",
+    "link": "https://www.youtube.com/results?search_query=Four+In+The+Morning+%28I+Can%27t+Take+Anymore%29+Night+Ranger+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 21,
+    "date": "1985-10-13",
+    "title": "You Are My Lady",
+    "artist": "Freddie Jackson",
+    "link": "https://www.youtube.com/results?search_query=You+Are+My+Lady+Freddie+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 22,
+    "date": "1985-10-13",
+    "title": "Sunset Grill",
+    "artist": "Don Henley",
+    "link": "https://www.youtube.com/results?search_query=Sunset+Grill+Don+Henley+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 23,
+    "date": "1985-10-13",
+    "title": "And We Danced",
+    "artist": "Hooters",
+    "link": "https://www.youtube.com/results?search_query=And+We+Danced+Hooters+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 24,
+    "date": "1985-10-13",
+    "title": "Lay Your Hands On Me",
+    "artist": "Thompson Twins",
+    "link": "https://www.youtube.com/results?search_query=Lay+Your+Hands+On+Me+Thompson+Twins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 25,
+    "date": "1985-10-13",
+    "title": "Freedom",
+    "artist": "Wham!",
+    "link": "https://www.youtube.com/results?search_query=Freedom+Wham%21+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 26,
+    "date": "1985-10-13",
+    "title": "Love Theme From St. Elmo's Fire (Instrumental)",
+    "artist": "David Foster",
+    "link": "https://www.youtube.com/results?search_query=Love+Theme+From+St.+Elmo%27s+Fire+%28Instrumental%29+David+Foster+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 27,
+    "date": "1985-10-13",
+    "title": "Never",
+    "artist": "Heart",
+    "link": "https://www.youtube.com/results?search_query=Never+Heart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 28,
+    "date": "1985-10-13",
+    "title": "Who's Zoomin' Who",
+    "artist": "Aretha Franklin",
+    "link": "https://www.youtube.com/results?search_query=Who%27s+Zoomin%27+Who+Aretha+Franklin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 29,
+    "date": "1985-10-13",
+    "title": "Separate Lives",
+    "artist": "Phil Collins and Marilyn Martin",
+    "link": "https://www.youtube.com/results?search_query=Separate+Lives+Phil+Collins+and+Marilyn+Martin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 30,
+    "date": "1985-10-13",
+    "title": "Cry",
+    "artist": "Godley & Creme",
+    "link": "https://www.youtube.com/results?search_query=Cry+Godley+%26+Creme+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 31,
+    "date": "1985-10-13",
+    "title": "The Way You Do The Things You Do/My Girl",
+    "artist": "Daryl Hall John Oates",
+    "link": "https://www.youtube.com/results?search_query=The+Way+You+Do+The+Things+You+Do%2FMy+Girl+Daryl+Hall+John+Oates+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 32,
+    "date": "1985-10-13",
+    "title": "Don't Lose My Number",
+    "artist": "Phil Collins",
+    "link": "https://www.youtube.com/results?search_query=Don%27t+Lose+My+Number+Phil+Collins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 33,
+    "date": "1985-10-13",
+    "title": "Boy In The Box",
+    "artist": "Corey Hart",
+    "link": "https://www.youtube.com/results?search_query=Boy+In+The+Box+Corey+Hart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 34,
+    "date": "1985-10-13",
+    "title": "Communication",
+    "artist": "The Power Station",
+    "link": "https://www.youtube.com/results?search_query=Communication+The+Power+Station+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 35,
+    "date": "1985-10-13",
+    "title": "Broken Wings",
+    "artist": "Mr. Mister",
+    "link": "https://www.youtube.com/results?search_query=Broken+Wings+Mr.+Mister+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 36,
+    "date": "1985-10-13",
+    "title": "So In Love",
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "link": "https://www.youtube.com/results?search_query=So+In+Love+Orchestral+Manoeuvres+In+The+Dark+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 37,
+    "date": "1985-10-13",
+    "title": "One Of The Living",
+    "artist": "Tina Turner",
+    "link": "https://www.youtube.com/results?search_query=One+Of+The+Living+Tina+Turner+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 38,
+    "date": "1985-10-13",
+    "title": "C-I-T-Y",
+    "artist": "John Cafferty & The Beaver Brown Band",
+    "link": "https://www.youtube.com/results?search_query=C-I-T-Y+John+Cafferty+%26+The+Beaver+Brown+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 39,
+    "date": "1985-10-13",
+    "title": "St. Elmo's Fire (Man In Motion)",
+    "artist": "John Parr",
+    "link": "https://www.youtube.com/results?search_query=St.+Elmo%27s+Fire+%28Man+In+Motion%29+John+Parr+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 40,
+    "date": "1985-10-13",
+    "title": "Dare Me",
+    "artist": "The Pointer Sisters",
+    "link": "https://www.youtube.com/results?search_query=Dare+Me+The+Pointer+Sisters+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 41,
+    "date": "1985-10-13",
+    "title": "Perfect Way",
+    "artist": "Scritti Politti",
+    "link": "https://www.youtube.com/results?search_query=Perfect+Way+Scritti+Politti+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 42,
+    "date": "1985-10-13",
+    "title": "Girls Are More Fun",
+    "artist": "Ray Parker Jr.",
+    "link": "https://www.youtube.com/results?search_query=Girls+Are+More+Fun+Ray+Parker+Jr.+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 43,
+    "date": "1985-10-13",
+    "title": "The Night Is Still Young",
+    "artist": "Billy Joel",
+    "link": "https://www.youtube.com/results?search_query=The+Night+Is+Still+Young+Billy+Joel+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 44,
+    "date": "1985-10-13",
+    "title": "Soul Kiss",
+    "artist": "Olivia Newton-John",
+    "link": "https://www.youtube.com/results?search_query=Soul+Kiss+Olivia+Newton-John+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 45,
+    "date": "1985-10-13",
+    "title": "Weird Science",
+    "artist": "Oingo Boingo",
+    "link": "https://www.youtube.com/results?search_query=Weird+Science+Oingo+Boingo+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 46,
+    "date": "1985-10-13",
+    "title": "I Miss You",
+    "artist": "Klymaxx",
+    "link": "https://www.youtube.com/results?search_query=I+Miss+You+Klymaxx+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 47,
+    "date": "1985-10-13",
+    "title": "Tonight It's You",
+    "artist": "Cheap Trick",
+    "link": "https://www.youtube.com/results?search_query=Tonight+It%27s+You+Cheap+Trick+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 48,
+    "date": "1985-10-13",
+    "title": "Born In East L.A.",
+    "artist": "Cheech & Chong",
+    "link": "https://www.youtube.com/results?search_query=Born+In+East+L.A.+Cheech+%26+Chong+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 49,
+    "date": "1985-10-13",
+    "title": "Sleeping Bag",
+    "artist": "ZZ Top",
+    "link": "https://www.youtube.com/results?search_query=Sleeping+Bag+ZZ+Top+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 50,
+    "date": "1985-10-13",
+    "title": "The Power Of Love",
+    "artist": "Huey Lewis & The News",
+    "link": "https://www.youtube.com/results?search_query=The+Power+Of+Love+Huey+Lewis+%26+The+News+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 51,
+    "date": "1985-10-13",
+    "title": "Stand By Me",
+    "artist": "Maurice White",
+    "link": "https://www.youtube.com/results?search_query=Stand+By+Me+Maurice+White+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 52,
+    "date": "1985-10-13",
+    "title": "Alive & Kicking",
+    "artist": "Simple Minds",
+    "link": "https://www.youtube.com/results?search_query=Alive+%26+Kicking+Simple+Minds+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 53,
+    "date": "1985-10-13",
+    "title": "All Of Me For All Of You",
+    "artist": "9.9",
+    "link": "https://www.youtube.com/results?search_query=All+Of+Me+For+All+Of+You+9.9+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 54,
+    "date": "1985-10-13",
+    "title": "Like To Get To Know You Well",
+    "artist": "Howard Jones",
+    "link": "https://www.youtube.com/results?search_query=Like+To+Get+To+Know+You+Well+Howard+Jones+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 55,
+    "date": "1985-10-13",
+    "title": "After The Fire",
+    "artist": "Roger Daltrey",
+    "link": "https://www.youtube.com/results?search_query=After+The+Fire+Roger+Daltrey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 56,
+    "date": "1985-10-13",
+    "title": "You Wear It Well",
+    "artist": "El DeBarge With DeBarge",
+    "link": "https://www.youtube.com/results?search_query=You+Wear+It+Well+El+DeBarge+With+DeBarge+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 57,
+    "date": "1985-10-13",
+    "title": "Running Up That Hill",
+    "artist": "Kate Bush",
+    "link": "https://www.youtube.com/results?search_query=Running+Up+That+Hill+Kate+Bush+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 58,
+    "date": "1985-10-13",
+    "title": "I'll Be Good",
+    "artist": "Rene & Angela",
+    "link": "https://www.youtube.com/results?search_query=I%27ll+Be+Good+Rene+%26+Angela+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 59,
+    "date": "1985-10-13",
+    "title": "Pop Life",
+    "artist": "Prince And The Revolution",
+    "link": "https://www.youtube.com/results?search_query=Pop+Life+Prince+And+The+Revolution+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 60,
+    "date": "1985-10-13",
+    "title": "Object Of My Desire",
+    "artist": "Starpoint",
+    "link": "https://www.youtube.com/results?search_query=Object+Of+My+Desire+Starpoint+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 61,
+    "date": "1985-10-13",
+    "title": "We Don't Need Another Hero (Thunderdome)",
+    "artist": "Tina Turner",
+    "link": "https://www.youtube.com/results?search_query=We+Don%27t+Need+Another+Hero+%28Thunderdome%29+Tina+Turner+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 62,
+    "date": "1985-10-13",
+    "title": "Sisters Are Doin' It For Themselves",
+    "artist": "Eurythmics & Aretha Franklin",
+    "link": "https://www.youtube.com/results?search_query=Sisters+Are+Doin%27+It+For+Themselves+Eurythmics+%26+Aretha+Franklin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 63,
+    "date": "1985-10-13",
+    "title": "Screams Of Passion",
+    "artist": "The Family",
+    "link": "https://www.youtube.com/results?search_query=Screams+Of+Passion+The+Family+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 64,
+    "date": "1985-10-13",
+    "title": "And She Was",
+    "artist": "Talking Heads",
+    "link": "https://www.youtube.com/results?search_query=And+She+Was+Talking+Heads+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 65,
+    "date": "1985-10-13",
+    "title": "All Fall Down",
+    "artist": "Five Star",
+    "link": "https://www.youtube.com/results?search_query=All+Fall+Down+Five+Star+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 66,
+    "date": "1985-10-13",
+    "title": "Party All The Time",
+    "artist": "Eddie Murphy",
+    "link": "https://www.youtube.com/results?search_query=Party+All+The+Time+Eddie+Murphy+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 67,
+    "date": "1985-10-13",
+    "title": "Every Step Of The Way",
+    "artist": "John Waite",
+    "link": "https://www.youtube.com/results?search_query=Every+Step+Of+The+Way+John+Waite+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 68,
+    "date": "1985-10-13",
+    "title": "The Oak Tree",
+    "artist": "Morris Day",
+    "link": "https://www.youtube.com/results?search_query=The+Oak+Tree+Morris+Day+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 69,
+    "date": "1985-10-13",
+    "title": "Hard Times For Lovers",
+    "artist": "Jennifer Holliday",
+    "link": "https://www.youtube.com/results?search_query=Hard+Times+For+Lovers+Jennifer+Holliday+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 70,
+    "date": "1985-10-13",
+    "title": "America",
+    "artist": "Prince And The Revolution",
+    "link": "https://www.youtube.com/results?search_query=America+Prince+And+The+Revolution+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 71,
+    "date": "1985-10-13",
+    "title": "To Live And Die In L.A.",
+    "artist": "Wang Chung",
+    "link": "https://www.youtube.com/results?search_query=To+Live+And+Die+In+L.A.+Wang+Chung+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 72,
+    "date": "1985-10-13",
+    "title": "Freeway Of Love",
+    "artist": "Aretha Franklin",
+    "link": "https://www.youtube.com/results?search_query=Freeway+Of+Love+Aretha+Franklin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 73,
+    "date": "1985-10-13",
+    "title": "Hurts To Be In Love",
+    "artist": "Gino Vannelli",
+    "link": "https://www.youtube.com/results?search_query=Hurts+To+Be+In+Love+Gino+Vannelli+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 74,
+    "date": "1985-10-13",
+    "title": "Eye To Eye",
+    "artist": "Go West",
+    "link": "https://www.youtube.com/results?search_query=Eye+To+Eye+Go+West+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 75,
+    "date": "1985-10-13",
+    "title": "Que Te Quiero",
+    "artist": "Katrina And The Waves",
+    "link": "https://www.youtube.com/results?search_query=Que+Te+Quiero+Katrina+And+The+Waves+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 76,
+    "date": "1985-10-13",
+    "title": "Kayleigh",
+    "artist": "Marillion",
+    "link": "https://www.youtube.com/results?search_query=Kayleigh+Marillion+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 77,
+    "date": "1985-10-13",
+    "title": "Blue Kiss",
+    "artist": "Jane Wiedlin",
+    "link": "https://www.youtube.com/results?search_query=Blue+Kiss+Jane+Wiedlin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 78,
+    "date": "1985-10-13",
+    "title": "Lover Come Back To Me",
+    "artist": "Dead Or Alive",
+    "link": "https://www.youtube.com/results?search_query=Lover+Come+Back+To+Me+Dead+Or+Alive+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 79,
+    "date": "1985-10-13",
+    "title": "Eaten Alive",
+    "artist": "Diana Ross",
+    "link": "https://www.youtube.com/results?search_query=Eaten+Alive+Diana+Ross+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 80,
+    "date": "1985-10-13",
+    "title": "Tarzan Boy (From \"Teenage Mutant Ninja Turtles III\")",
+    "artist": "Baltimora",
+    "link": "https://www.youtube.com/results?search_query=Tarzan+Boy+%28From+%22Teenage+Mutant+Ninja+Turtles+III%22%29+Baltimora+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 81,
+    "date": "1985-10-13",
+    "title": "Remo's Theme (What If)",
+    "artist": "Tommy Shaw",
+    "link": "https://www.youtube.com/results?search_query=Remo%27s+Theme+%28What+If%29+Tommy+Shaw+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 82,
+    "date": "1985-10-13",
+    "title": "Everybody Dance",
+    "artist": "Ta Mara & The Seen",
+    "link": "https://www.youtube.com/results?search_query=Everybody+Dance+Ta+Mara+%26+The+Seen+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 83,
+    "date": "1985-10-13",
+    "title": "Invincible (Theme From The Legend Of Billie Jean)",
+    "artist": "Pat Benatar",
+    "link": "https://www.youtube.com/results?search_query=Invincible+%28Theme+From+The+Legend+Of+Billie+Jean%29+Pat+Benatar+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 84,
+    "date": "1985-10-13",
+    "title": "Hold Me",
+    "artist": "Laura Branigan",
+    "link": "https://www.youtube.com/results?search_query=Hold+Me+Laura+Branigan+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 85,
+    "date": "1985-10-13",
+    "title": "Tears Are Falling",
+    "artist": "KISS",
+    "link": "https://www.youtube.com/results?search_query=Tears+Are+Falling+KISS+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 86,
+    "date": "1985-10-13",
+    "title": "I Got You Babe",
+    "artist": "UB40",
+    "link": "https://www.youtube.com/results?search_query=I+Got+You+Babe+UB40+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 87,
+    "date": "1985-10-13",
+    "title": "I Wonder If I Take You Home",
+    "artist": "Lisa Lisa And Clult Jam With Full Force",
+    "link": "https://www.youtube.com/results?search_query=I+Wonder+If+I+Take+You+Home+Lisa+Lisa+And+Clult+Jam+With+Full+Force+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 88,
+    "date": "1985-10-13",
+    "title": "Summer Of '69",
+    "artist": "Bryan Adams",
+    "link": "https://www.youtube.com/results?search_query=Summer+Of+%2769+Bryan+Adams+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 89,
+    "date": "1985-10-13",
+    "title": "Welcome To Paradise",
+    "artist": "John Waite",
+    "link": "https://www.youtube.com/results?search_query=Welcome+To+Paradise+John+Waite+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 90,
+    "date": "1985-10-13",
+    "title": "Talk To Me",
+    "artist": "Quarterflash",
+    "link": "https://www.youtube.com/results?search_query=Talk+To+Me+Quarterflash+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 91,
+    "date": "1985-10-13",
+    "title": "I'll Be There",
+    "artist": "Kenny Loggins",
+    "link": "https://www.youtube.com/results?search_query=I%27ll+Be+There+Kenny+Loggins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 92,
+    "date": "1985-10-13",
+    "title": "You're Only Human (Second Wind)",
+    "artist": "Billy Joel",
+    "link": "https://www.youtube.com/results?search_query=You%27re+Only+Human+%28Second+Wind%29+Billy+Joel+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 93,
+    "date": "1985-10-13",
+    "title": "You're In Love",
+    "artist": "Ratt",
+    "link": "https://www.youtube.com/results?search_query=You%27re+In+Love+Ratt+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 94,
+    "date": "1985-10-13",
+    "title": "Smokin' In The Boys Room",
+    "artist": "Motley Crue",
+    "link": "https://www.youtube.com/results?search_query=Smokin%27+In+The+Boys+Room+Motley+Crue+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 95,
+    "date": "1985-10-13",
+    "title": "Conga",
+    "artist": "Miami Sound Machine",
+    "link": "https://www.youtube.com/results?search_query=Conga+Miami+Sound+Machine+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 96,
+    "date": "1985-10-13",
+    "title": "Never Surrender",
+    "artist": "Corey Hart",
+    "link": "https://www.youtube.com/results?search_query=Never+Surrender+Corey+Hart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 97,
+    "date": "1985-10-13",
+    "title": "What About Love?",
+    "artist": "Heart",
+    "link": "https://www.youtube.com/results?search_query=What+About+Love%3F+Heart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 98,
+    "date": "1985-10-13",
+    "title": "Shout",
+    "artist": "Tears For Fears",
+    "link": "https://www.youtube.com/results?search_query=Shout+Tears+For+Fears+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 99,
+    "date": "1985-10-13",
+    "title": "Life In One Day",
+    "artist": "Howard Jones",
+    "link": "https://www.youtube.com/results?search_query=Life+In+One+Day+Howard+Jones+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 100,
+    "date": "1985-10-13",
+    "title": "Forever",
+    "artist": "Kenny Loggins",
+    "link": "https://www.youtube.com/results?search_query=Forever+Kenny+Loggins+MTV&sp=CAM%253D"
+  }
+]

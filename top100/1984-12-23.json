@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "date": "1984-12-23",
+    "title": "Like A Virgin",
+    "artist": "Madonna",
+    "link": "https://www.youtube.com/results?search_query=Like+A+Virgin+Madonna+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 2,
+    "date": "1984-12-23",
+    "title": "The Wild Boys",
+    "artist": "Duran Duran",
+    "link": "https://www.youtube.com/results?search_query=The+Wild+Boys+Duran+Duran+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 3,
+    "date": "1984-12-23",
+    "title": "Out Of Touch",
+    "artist": "Daryl Hall John Oates",
+    "link": "https://www.youtube.com/results?search_query=Out+Of+Touch+Daryl+Hall+John+Oates+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 4,
+    "date": "1984-12-23",
+    "title": "Sea Of Love",
+    "artist": "The Honeydrippers",
+    "link": "https://www.youtube.com/results?search_query=Sea+Of+Love+The+Honeydrippers+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 5,
+    "date": "1984-12-23",
+    "title": "Cool It Now",
+    "artist": "New Edition",
+    "link": "https://www.youtube.com/results?search_query=Cool+It+Now+New+Edition+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 6,
+    "date": "1984-12-23",
+    "title": "We Belong",
+    "artist": "Pat Benatar",
+    "link": "https://www.youtube.com/results?search_query=We+Belong+Pat+Benatar+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 7,
+    "date": "1984-12-23",
+    "title": "I Feel For You",
+    "artist": "Chaka Khan",
+    "link": "https://www.youtube.com/results?search_query=I+Feel+For+You+Chaka+Khan+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 8,
+    "date": "1984-12-23",
+    "title": "No More Lonely Nights",
+    "artist": "Paul McCartney",
+    "link": "https://www.youtube.com/results?search_query=No+More+Lonely+Nights+Paul+McCartney+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 9,
+    "date": "1984-12-23",
+    "title": "All I Need",
+    "artist": "Jack Wagner",
+    "link": "https://www.youtube.com/results?search_query=All+I+Need+Jack+Wagner+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 10,
+    "date": "1984-12-23",
+    "title": "Valotte",
+    "artist": "Julian Lennon",
+    "link": "https://www.youtube.com/results?search_query=Valotte+Julian+Lennon+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 11,
+    "date": "1984-12-23",
+    "title": "Wake Me Up Before You Go-Go",
+    "artist": "Wham!",
+    "link": "https://www.youtube.com/results?search_query=Wake+Me+Up+Before+You+Go-Go+Wham%21+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 12,
+    "date": "1984-12-23",
+    "title": "Run To You",
+    "artist": "Bryan Adams",
+    "link": "https://www.youtube.com/results?search_query=Run+To+You+Bryan+Adams+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 13,
+    "date": "1984-12-23",
+    "title": "All Through The Night",
+    "artist": "Cyndi Lauper",
+    "link": "https://www.youtube.com/results?search_query=All+Through+The+Night+Cyndi+Lauper+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 14,
+    "date": "1984-12-23",
+    "title": "Born In The USA",
+    "artist": "Bruce Springsteen",
+    "link": "https://www.youtube.com/results?search_query=Born+In+The+USA+Bruce+Springsteen+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 15,
+    "date": "1984-12-23",
+    "title": "You're The Inspiration",
+    "artist": "Chicago",
+    "link": "https://www.youtube.com/results?search_query=You%27re+The+Inspiration+Chicago+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 16,
+    "date": "1984-12-23",
+    "title": "I Can't Hold Back",
+    "artist": "Survivor",
+    "link": "https://www.youtube.com/results?search_query=I+Can%27t+Hold+Back+Survivor+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 17,
+    "date": "1984-12-23",
+    "title": "Do What You Do",
+    "artist": "Jermaine Jackson",
+    "link": "https://www.youtube.com/results?search_query=Do+What+You+Do+Jermaine+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 18,
+    "date": "1984-12-23",
+    "title": "Penny Lover",
+    "artist": "Lionel Richie",
+    "link": "https://www.youtube.com/results?search_query=Penny+Lover+Lionel+Richie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 19,
+    "date": "1984-12-23",
+    "title": "Understanding",
+    "artist": "Bob Seger",
+    "link": "https://www.youtube.com/results?search_query=Understanding+Bob+Seger+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 20,
+    "date": "1984-12-23",
+    "title": "Hello Again",
+    "artist": "The Cars",
+    "link": "https://www.youtube.com/results?search_query=Hello+Again+The+Cars+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 21,
+    "date": "1984-12-23",
+    "title": "I Want To Know What Love Is",
+    "artist": "Foreigner",
+    "link": "https://www.youtube.com/results?search_query=I+Want+To+Know+What+Love+Is+Foreigner+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 22,
+    "date": "1984-12-23",
+    "title": "Easy Lover",
+    "artist": "Philip Bailey With Phil Collins",
+    "link": "https://www.youtube.com/results?search_query=Easy+Lover+Philip+Bailey+With+Phil+Collins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 23,
+    "date": "1984-12-23",
+    "title": "Strut",
+    "artist": "Sheena Easton",
+    "link": "https://www.youtube.com/results?search_query=Strut+Sheena+Easton+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 24,
+    "date": "1984-12-23",
+    "title": "Centipede",
+    "artist": "Rebbie Jackson",
+    "link": "https://www.youtube.com/results?search_query=Centipede+Rebbie+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 25,
+    "date": "1984-12-23",
+    "title": "Jamie",
+    "artist": "Ray Parker Jr.",
+    "link": "https://www.youtube.com/results?search_query=Jamie+Ray+Parker+Jr.+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 26,
+    "date": "1984-12-23",
+    "title": "Walking On A Thin Line",
+    "artist": "Huey Lewis & The News",
+    "link": "https://www.youtube.com/results?search_query=Walking+On+A+Thin+Line+Huey+Lewis+%26+The+News+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 27,
+    "date": "1984-12-23",
+    "title": "The Boys Of Summer",
+    "artist": "Don Henley",
+    "link": "https://www.youtube.com/results?search_query=The+Boys+Of+Summer+Don+Henley+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 28,
+    "date": "1984-12-23",
+    "title": "We Are The Young",
+    "artist": "Dan Hartman",
+    "link": "https://www.youtube.com/results?search_query=We+Are+The+Young+Dan+Hartman+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 29,
+    "date": "1984-12-23",
+    "title": "Better Be Good To Me",
+    "artist": "Tina Turner",
+    "link": "https://www.youtube.com/results?search_query=Better+Be+Good+To+Me+Tina+Turner+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 30,
+    "date": "1984-12-23",
+    "title": "Stranger In Town",
+    "artist": "Toto",
+    "link": "https://www.youtube.com/results?search_query=Stranger+In+Town+Toto+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 31,
+    "date": "1984-12-23",
+    "title": "Lover Boy",
+    "artist": "Billy Ocean",
+    "link": "https://www.youtube.com/results?search_query=Lover+Boy+Billy+Ocean+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 32,
+    "date": "1984-12-23",
+    "title": "I Would Die 4 U",
+    "artist": "Prince And The Revolution",
+    "link": "https://www.youtube.com/results?search_query=I+Would+Die+4+U+Prince+And+The+Revolution+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 33,
+    "date": "1984-12-23",
+    "title": "Bruce",
+    "artist": "Rick Springfield",
+    "link": "https://www.youtube.com/results?search_query=Bruce+Rick+Springfield+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 34,
+    "date": "1984-12-23",
+    "title": "The Belle Of St. Mark",
+    "artist": "Sheila E.",
+    "link": "https://www.youtube.com/results?search_query=The+Belle+Of+St.+Mark+Sheila+E.+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 35,
+    "date": "1984-12-23",
+    "title": "Tender Years",
+    "artist": "John Cafferty & The Beaver Brown Band",
+    "link": "https://www.youtube.com/results?search_query=Tender+Years+John+Cafferty+%26+The+Beaver+Brown+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 36,
+    "date": "1984-12-23",
+    "title": "Love Light In Flight",
+    "artist": "Stevie Wonder",
+    "link": "https://www.youtube.com/results?search_query=Love+Light+In+Flight+Stevie+Wonder+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 37,
+    "date": "1984-12-23",
+    "title": "Careless Whisper",
+    "artist": "Wham! Featuring George Michael",
+    "link": "https://www.youtube.com/results?search_query=Careless+Whisper+Wham%21+Featuring+George+Michael+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 38,
+    "date": "1984-12-23",
+    "title": "(Pride) In The Name Of Love",
+    "artist": "U2",
+    "link": "https://www.youtube.com/results?search_query=%28Pride%29+In+The+Name+Of+Love+U2+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 39,
+    "date": "1984-12-23",
+    "title": "Foolish Heart",
+    "artist": "Steve Perry",
+    "link": "https://www.youtube.com/results?search_query=Foolish+Heart+Steve+Perry+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 40,
+    "date": "1984-12-23",
+    "title": "Neutron Dance",
+    "artist": "The Pointer Sisters",
+    "link": "https://www.youtube.com/results?search_query=Neutron+Dance+The+Pointer+Sisters+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 41,
+    "date": "1984-12-23",
+    "title": "Call To The Heart",
+    "artist": "Giuffria",
+    "link": "https://www.youtube.com/results?search_query=Call+To+The+Heart+Giuffria+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 42,
+    "date": "1984-12-23",
+    "title": "Method Of Modern Love",
+    "artist": "Daryl Hall John Oates",
+    "link": "https://www.youtube.com/results?search_query=Method+Of+Modern+Love+Daryl+Hall+John+Oates+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 43,
+    "date": "1984-12-23",
+    "title": "In Neon",
+    "artist": "Elton John",
+    "link": "https://www.youtube.com/results?search_query=In+Neon+Elton+John+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 44,
+    "date": "1984-12-23",
+    "title": "It Ain't Enough",
+    "artist": "Corey Hart",
+    "link": "https://www.youtube.com/results?search_query=It+Ain%27t+Enough+Corey+Hart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 45,
+    "date": "1984-12-23",
+    "title": "Solid",
+    "artist": "Ashford & Simpson",
+    "link": "https://www.youtube.com/results?search_query=Solid+Ashford+%26+Simpson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 46,
+    "date": "1984-12-23",
+    "title": "Misled",
+    "artist": "Kool & The Gang",
+    "link": "https://www.youtube.com/results?search_query=Misled+Kool+%26+The+Gang+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 47,
+    "date": "1984-12-23",
+    "title": "Operator",
+    "artist": "Midnight Star",
+    "link": "https://www.youtube.com/results?search_query=Operator+Midnight+Star+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 48,
+    "date": "1984-12-23",
+    "title": "Two Tribes",
+    "artist": "Frankie Goes To Hollywood",
+    "link": "https://www.youtube.com/results?search_query=Two+Tribes+Frankie+Goes+To+Hollywood+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 49,
+    "date": "1984-12-23",
+    "title": "Jungle Love",
+    "artist": "The Time",
+    "link": "https://www.youtube.com/results?search_query=Jungle+Love+The+Time+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 50,
+    "date": "1984-12-23",
+    "title": "Mistake No. 3",
+    "artist": "Culture Club",
+    "link": "https://www.youtube.com/results?search_query=Mistake+No.+3+Culture+Club+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 51,
+    "date": "1984-12-23",
+    "title": "Tenderness",
+    "artist": "General Public",
+    "link": "https://www.youtube.com/results?search_query=Tenderness+General+Public+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 52,
+    "date": "1984-12-23",
+    "title": "The Heat Is On",
+    "artist": "Glenn Frey",
+    "link": "https://www.youtube.com/results?search_query=The+Heat+Is+On+Glenn+Frey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 53,
+    "date": "1984-12-23",
+    "title": "Tonight",
+    "artist": "David Bowie",
+    "link": "https://www.youtube.com/results?search_query=Tonight+David+Bowie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 54,
+    "date": "1984-12-23",
+    "title": "Purple Rain",
+    "artist": "Prince And The Revolution",
+    "link": "https://www.youtube.com/results?search_query=Purple+Rain+Prince+And+The+Revolution+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 55,
+    "date": "1984-12-23",
+    "title": "Ti Amo",
+    "artist": "Laura Branigan",
+    "link": "https://www.youtube.com/results?search_query=Ti+Amo+Laura+Branigan+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 56,
+    "date": "1984-12-23",
+    "title": "Missing You",
+    "artist": "Diana Ross",
+    "link": "https://www.youtube.com/results?search_query=Missing+You+Diana+Ross+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 57,
+    "date": "1984-12-23",
+    "title": "Money Changes Everything",
+    "artist": "Cyndi Lauper",
+    "link": "https://www.youtube.com/results?search_query=Money+Changes+Everything+Cyndi+Lauper+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 58,
+    "date": "1984-12-23",
+    "title": "Make No Mistake, He's Mine",
+    "artist": "Barbra Streisand With Kim Carnes",
+    "link": "https://www.youtube.com/results?search_query=Make+No+Mistake%2C+He%27s+Mine+Barbra+Streisand+With+Kim+Carnes+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 59,
+    "date": "1984-12-23",
+    "title": "I Do'wanna Know",
+    "artist": "REO Speedwagon",
+    "link": "https://www.youtube.com/results?search_query=I+Do%27wanna+Know+REO+Speedwagon+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 60,
+    "date": "1984-12-23",
+    "title": "Sugar Walls",
+    "artist": "Sheena Easton",
+    "link": "https://www.youtube.com/results?search_query=Sugar+Walls+Sheena+Easton+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 61,
+    "date": "1984-12-23",
+    "title": "The Old Man Down The Road",
+    "artist": "John Fogerty",
+    "link": "https://www.youtube.com/results?search_query=The+Old+Man+Down+The+Road+John+Fogerty+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 62,
+    "date": "1984-12-23",
+    "title": "Caribbean Queen (No More Love On The Run)",
+    "artist": "Billy Ocean",
+    "link": "https://www.youtube.com/results?search_query=Caribbean+Queen+%28No+More+Love+On+The+Run%29+Billy+Ocean+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 63,
+    "date": "1984-12-23",
+    "title": "I Just Called To Say I Love You",
+    "artist": "Stevie Wonder",
+    "link": "https://www.youtube.com/results?search_query=I+Just+Called+To+Say+I+Love+You+Stevie+Wonder+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 64,
+    "date": "1984-12-23",
+    "title": "Don't Stop",
+    "artist": "Jeffrey Osborne",
+    "link": "https://www.youtube.com/results?search_query=Don%27t+Stop+Jeffrey+Osborne+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 65,
+    "date": "1984-12-23",
+    "title": "Do They Know It's Christmas?",
+    "artist": "Band-Aid",
+    "link": "https://www.youtube.com/results?search_query=Do+They+Know+It%27s+Christmas%3F+Band-Aid+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 66,
+    "date": "1984-12-23",
+    "title": "Had A Dream (Sleeping With The Enemy)",
+    "artist": "Roger Hodgson",
+    "link": "https://www.youtube.com/results?search_query=Had+A+Dream+%28Sleeping+With+The+Enemy%29+Roger+Hodgson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 67,
+    "date": "1984-12-23",
+    "title": "Desert Moon",
+    "artist": "Dennis DeYoung",
+    "link": "https://www.youtube.com/results?search_query=Desert+Moon+Dennis+DeYoung+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 68,
+    "date": "1984-12-23",
+    "title": "Lover Girl",
+    "artist": "Teena Marie",
+    "link": "https://www.youtube.com/results?search_query=Lover+Girl+Teena+Marie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 69,
+    "date": "1984-12-23",
+    "title": "Catch My Fall",
+    "artist": "Billy Idol",
+    "link": "https://www.youtube.com/results?search_query=Catch+My+Fall+Billy+Idol+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 70,
+    "date": "1984-12-23",
+    "title": "20/20",
+    "artist": "George Benson",
+    "link": "https://www.youtube.com/results?search_query=20%2F20+George+Benson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 71,
+    "date": "1984-12-23",
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "link": "https://www.youtube.com/results?search_query=Big+In+Japan+Alphaville+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 72,
+    "date": "1984-12-23",
+    "title": "Tragedy",
+    "artist": "John Hunter",
+    "link": "https://www.youtube.com/results?search_query=Tragedy+John+Hunter+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 73,
+    "date": "1984-12-23",
+    "title": "Amnesia",
+    "artist": "Shalamar",
+    "link": "https://www.youtube.com/results?search_query=Amnesia+Shalamar+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 74,
+    "date": "1984-12-23",
+    "title": "Treat Her Like A Lady",
+    "artist": "The Temptations",
+    "link": "https://www.youtube.com/results?search_query=Treat+Her+Like+A+Lady+The+Temptations+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 75,
+    "date": "1984-12-23",
+    "title": "Eat My Shorts",
+    "artist": "Rick Dees",
+    "link": "https://www.youtube.com/results?search_query=Eat+My+Shorts+Rick+Dees+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 76,
+    "date": "1984-12-23",
+    "title": "Naughty Naughty",
+    "artist": "John Parr",
+    "link": "https://www.youtube.com/results?search_query=Naughty+Naughty+John+Parr+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 77,
+    "date": "1984-12-23",
+    "title": "Lonely School",
+    "artist": "Tommy Shaw",
+    "link": "https://www.youtube.com/results?search_query=Lonely+School+Tommy+Shaw+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 78,
+    "date": "1984-12-23",
+    "title": "Eye On You",
+    "artist": "Billy Squier",
+    "link": "https://www.youtube.com/results?search_query=Eye+On+You+Billy+Squier+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 79,
+    "date": "1984-12-23",
+    "title": "Mr. Telephone Man",
+    "artist": "New Edition",
+    "link": "https://www.youtube.com/results?search_query=Mr.+Telephone+Man+New+Edition+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 80,
+    "date": "1984-12-23",
+    "title": "All Right Now",
+    "artist": "Rod Stewart",
+    "link": "https://www.youtube.com/results?search_query=All+Right+Now+Rod+Stewart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 81,
+    "date": "1984-12-23",
+    "title": "Tears",
+    "artist": "John Waite",
+    "link": "https://www.youtube.com/results?search_query=Tears+John+Waite+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 82,
+    "date": "1984-12-23",
+    "title": "Hard Habit To Break",
+    "artist": "Chicago",
+    "link": "https://www.youtube.com/results?search_query=Hard+Habit+To+Break+Chicago+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 83,
+    "date": "1984-12-23",
+    "title": "The Greatest Gift Of All",
+    "artist": "Kenny Rogers",
+    "link": "https://www.youtube.com/results?search_query=The+Greatest+Gift+Of+All+Kenny+Rogers+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 84,
+    "date": "1984-12-23",
+    "title": "I Wanna Go Back",
+    "artist": "Billy Satellite",
+    "link": "https://www.youtube.com/results?search_query=I+Wanna+Go+Back+Billy+Satellite+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 85,
+    "date": "1984-12-23",
+    "title": "Taxi Dancing",
+    "artist": "Rick Springfield With Randy Crawford",
+    "link": "https://www.youtube.com/results?search_query=Taxi+Dancing+Rick+Springfield+With+Randy+Crawford+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 86,
+    "date": "1984-12-23",
+    "title": "Small Town Boy",
+    "artist": "Bronski Beat",
+    "link": "https://www.youtube.com/results?search_query=Small+Town+Boy+Bronski+Beat+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 87,
+    "date": "1984-12-23",
+    "title": "Do It Again",
+    "artist": "The Kinks",
+    "link": "https://www.youtube.com/results?search_query=Do+It+Again+The+Kinks+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 88,
+    "date": "1984-12-23",
+    "title": "What About Me?",
+    "artist": "Kenny Rogers With Kim Carnes & James Ingram",
+    "link": "https://www.youtube.com/results?search_query=What+About+Me%3F+Kenny+Rogers+With+Kim+Carnes+%26+James+Ingram+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 89,
+    "date": "1984-12-23",
+    "title": "Turn Up The Radio",
+    "artist": "Autograph",
+    "link": "https://www.youtube.com/results?search_query=Turn+Up+The+Radio+Autograph+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 90,
+    "date": "1984-12-23",
+    "title": "Fools Like Me",
+    "artist": "Lorenzo Lamas",
+    "link": "https://www.youtube.com/results?search_query=Fools+Like+Me+Lorenzo+Lamas+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 91,
+    "date": "1984-12-23",
+    "title": "I Can't Drive 55",
+    "artist": "Sammy Hagar",
+    "link": "https://www.youtube.com/results?search_query=I+Can%27t+Drive+55+Sammy+Hagar+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 92,
+    "date": "1984-12-23",
+    "title": "The Wild Life",
+    "artist": "Bananarama",
+    "link": "https://www.youtube.com/results?search_query=The+Wild+Life+Bananarama+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 93,
+    "date": "1984-12-23",
+    "title": "Let It All Blow",
+    "artist": "Dazz Band",
+    "link": "https://www.youtube.com/results?search_query=Let+It+All+Blow+Dazz+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 94,
+    "date": "1984-12-23",
+    "title": "Blue Jean",
+    "artist": "David Bowie",
+    "link": "https://www.youtube.com/results?search_query=Blue+Jean+David+Bowie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 95,
+    "date": "1984-12-23",
+    "title": "I'm So Excited",
+    "artist": "The Pointer Sisters",
+    "link": "https://www.youtube.com/results?search_query=I%27m+So+Excited+The+Pointer+Sisters+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 96,
+    "date": "1984-12-23",
+    "title": "The War Song",
+    "artist": "Culture Club",
+    "link": "https://www.youtube.com/results?search_query=The+War+Song+Culture+Club+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 97,
+    "date": "1984-12-23",
+    "title": "I Need You Tonight",
+    "artist": "Peter Wolf",
+    "link": "https://www.youtube.com/results?search_query=I+Need+You+Tonight+Peter+Wolf+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 98,
+    "date": "1984-12-23",
+    "title": "Hands Tied",
+    "artist": "Scandal Featuring Patty Smyth",
+    "link": "https://www.youtube.com/results?search_query=Hands+Tied+Scandal+Featuring+Patty+Smyth+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 99,
+    "date": "1984-12-23",
+    "title": "Don't Wait For Heroes",
+    "artist": "Dennis DeYoung",
+    "link": "https://www.youtube.com/results?search_query=Don%27t+Wait+For+Heroes+Dennis+DeYoung+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 100,
+    "date": "1984-12-23",
+    "title": "Thief Of Hearts",
+    "artist": "Melissa Manchester",
+    "link": "https://www.youtube.com/results?search_query=Thief+Of+Hearts+Melissa+Manchester+MTV&sp=CAM%253D"
+  }
+]

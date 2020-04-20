@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "date": "1986-04-27",
+    "title": "Addicted To Love",
+    "artist": "Robert Palmer",
+    "link": "https://www.youtube.com/results?search_query=Addicted+To+Love+Robert+Palmer+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 2,
+    "date": "1986-04-27",
+    "title": "West End Girls",
+    "artist": "Pet Shop Boys",
+    "link": "https://www.youtube.com/results?search_query=West+End+Girls+Pet+Shop+Boys+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 3,
+    "date": "1986-04-27",
+    "title": "Kiss",
+    "artist": "Prince And The Revolution",
+    "link": "https://www.youtube.com/results?search_query=Kiss+Prince+And+The+Revolution+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 4,
+    "date": "1986-04-27",
+    "title": "Why Can't This Be Love",
+    "artist": "Van Halen",
+    "link": "https://www.youtube.com/results?search_query=Why+Can%27t+This+Be+Love+Van+Halen+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 5,
+    "date": "1986-04-27",
+    "title": "Harlem Shuffle",
+    "artist": "The Rolling Stones",
+    "link": "https://www.youtube.com/results?search_query=Harlem+Shuffle+The+Rolling+Stones+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 6,
+    "date": "1986-04-27",
+    "title": "What Have You Done For Me Lately",
+    "artist": "Janet Jackson",
+    "link": "https://www.youtube.com/results?search_query=What+Have+You+Done+For+Me+Lately+Janet+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 7,
+    "date": "1986-04-27",
+    "title": "Greatest Love Of All",
+    "artist": "Whitney Houston",
+    "link": "https://www.youtube.com/results?search_query=Greatest+Love+Of+All+Whitney+Houston+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 8,
+    "date": "1986-04-27",
+    "title": "Your Love",
+    "artist": "The Outfield",
+    "link": "https://www.youtube.com/results?search_query=Your+Love+The+Outfield+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 9,
+    "date": "1986-04-27",
+    "title": "Take Me Home",
+    "artist": "Phil Collins",
+    "link": "https://www.youtube.com/results?search_query=Take+Me+Home+Phil+Collins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 10,
+    "date": "1986-04-27",
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "link": "https://www.youtube.com/results?search_query=Manic+Monday+The+Bangles+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 11,
+    "date": "1986-04-27",
+    "title": "Bad Boy",
+    "artist": "Miami Sound Machine",
+    "link": "https://www.youtube.com/results?search_query=Bad+Boy+Miami+Sound+Machine+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 12,
+    "date": "1986-04-27",
+    "title": "If You Leave",
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "link": "https://www.youtube.com/results?search_query=If+You+Leave+Orchestral+Manoeuvres+In+The+Dark+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 13,
+    "date": "1986-04-27",
+    "title": "American Storm",
+    "artist": "Bob Seger",
+    "link": "https://www.youtube.com/results?search_query=American+Storm+Bob+Seger+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 14,
+    "date": "1986-04-27",
+    "title": "Live To Tell",
+    "artist": "Madonna",
+    "link": "https://www.youtube.com/results?search_query=Live+To+Tell+Madonna+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 15,
+    "date": "1986-04-27",
+    "title": "Rock Me Amadeus",
+    "artist": "Falco",
+    "link": "https://www.youtube.com/results?search_query=Rock+Me+Amadeus+Falco+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 16,
+    "date": "1986-04-27",
+    "title": "On My Own",
+    "artist": "Patti LaBelle & Michael McDonald",
+    "link": "https://www.youtube.com/results?search_query=On+My+Own+Patti+LaBelle+%26+Michael+McDonald+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 17,
+    "date": "1986-04-27",
+    "title": "I Can't Wait",
+    "artist": "Nu Shooz",
+    "link": "https://www.youtube.com/results?search_query=I+Can%27t+Wait+Nu+Shooz+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 18,
+    "date": "1986-04-27",
+    "title": "Something About You",
+    "artist": "Level 42",
+    "link": "https://www.youtube.com/results?search_query=Something+About+You+Level+42+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 19,
+    "date": "1986-04-27",
+    "title": "Let's Go All The Way",
+    "artist": "Sly Fox",
+    "link": "https://www.youtube.com/results?search_query=Let%27s+Go+All+The+Way+Sly+Fox+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 20,
+    "date": "1986-04-27",
+    "title": "What You Need",
+    "artist": "INXS",
+    "link": "https://www.youtube.com/results?search_query=What+You+Need+INXS+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 21,
+    "date": "1986-04-27",
+    "title": "All I Need Is A Miracle",
+    "artist": "Mike + The Mechanics",
+    "link": "https://www.youtube.com/results?search_query=All+I+Need+Is+A+Miracle+Mike+%2B+The+Mechanics+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 22,
+    "date": "1986-04-27",
+    "title": "I Think It's Love",
+    "artist": "Jermaine Jackson",
+    "link": "https://www.youtube.com/results?search_query=I+Think+It%27s+Love+Jermaine+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 23,
+    "date": "1986-04-27",
+    "title": "Is It Love",
+    "artist": "Mr. Mister",
+    "link": "https://www.youtube.com/results?search_query=Is+It+Love+Mr.+Mister+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 24,
+    "date": "1986-04-27",
+    "title": "Tender Love",
+    "artist": "Force M.D.'s",
+    "link": "https://www.youtube.com/results?search_query=Tender+Love+Force+M.D.%27s+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 25,
+    "date": "1986-04-27",
+    "title": "Be Good To Yourself",
+    "artist": "Journey",
+    "link": "https://www.youtube.com/results?search_query=Be+Good+To+Yourself+Journey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 26,
+    "date": "1986-04-27",
+    "title": "I Do What I Do... (Theme For 9 1/2 Weeks)",
+    "artist": "John Taylor",
+    "link": "https://www.youtube.com/results?search_query=I+Do+What+I+Do...+%28Theme+For+9+1%2F2+Weeks%29+John+Taylor+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 27,
+    "date": "1986-04-27",
+    "title": "Move Away",
+    "artist": "Culture Club",
+    "link": "https://www.youtube.com/results?search_query=Move+Away+Culture+Club+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 28,
+    "date": "1986-04-27",
+    "title": "Rough Boy",
+    "artist": "ZZ Top",
+    "link": "https://www.youtube.com/results?search_query=Rough+Boy+ZZ+Top+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 29,
+    "date": "1986-04-27",
+    "title": "Never As Good As The First Time",
+    "artist": "Sade",
+    "link": "https://www.youtube.com/results?search_query=Never+As+Good+As+The+First+Time+Sade+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 30,
+    "date": "1986-04-27",
+    "title": "So Far Away",
+    "artist": "Dire Straits",
+    "link": "https://www.youtube.com/results?search_query=So+Far+Away+Dire+Straits+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 31,
+    "date": "1986-04-27",
+    "title": "Saturday Love",
+    "artist": "Cherrelle With Alexander O'Neal",
+    "link": "https://www.youtube.com/results?search_query=Saturday+Love+Cherrelle+With+Alexander+O%27Neal+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 32,
+    "date": "1986-04-27",
+    "title": "Crush On You",
+    "artist": "The Jets",
+    "link": "https://www.youtube.com/results?search_query=Crush+On+You+The+Jets+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 33,
+    "date": "1986-04-27",
+    "title": "Stick Around",
+    "artist": "Julian Lennon",
+    "link": "https://www.youtube.com/results?search_query=Stick+Around+Julian+Lennon+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 34,
+    "date": "1986-04-27",
+    "title": "Tomorrow Doesn't Matter Tonight",
+    "artist": "Starship",
+    "link": "https://www.youtube.com/results?search_query=Tomorrow+Doesn%27t+Matter+Tonight+Starship+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 35,
+    "date": "1986-04-27",
+    "title": "Feel It Again",
+    "artist": "Honeymoon Suite",
+    "link": "https://www.youtube.com/results?search_query=Feel+It+Again+Honeymoon+Suite+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 36,
+    "date": "1986-04-27",
+    "title": "No One Is To Blame",
+    "artist": "Howard Jones",
+    "link": "https://www.youtube.com/results?search_query=No+One+Is+To+Blame+Howard+Jones+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 37,
+    "date": "1986-04-27",
+    "title": "There'll Be Sad Songs (To Make You Cry)",
+    "artist": "Billy Ocean",
+    "link": "https://www.youtube.com/results?search_query=There%27ll+Be+Sad+Songs+%28To+Make+You+Cry%29+Billy+Ocean+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 38,
+    "date": "1986-04-27",
+    "title": "Mothers Talk",
+    "artist": "Tears For Fears",
+    "link": "https://www.youtube.com/results?search_query=Mothers+Talk+Tears+For+Fears+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 39,
+    "date": "1986-04-27",
+    "title": "All The Things She Said",
+    "artist": "Simple Minds",
+    "link": "https://www.youtube.com/results?search_query=All+The+Things+She+Said+Simple+Minds+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 40,
+    "date": "1986-04-27",
+    "title": "Nothin' At All",
+    "artist": "Heart",
+    "link": "https://www.youtube.com/results?search_query=Nothin%27+At+All+Heart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 41,
+    "date": "1986-04-27",
+    "title": "R.O.C.K. In The U.S.A. (A Salute to 60's Rock)",
+    "artist": "John Mellencamp",
+    "link": "https://www.youtube.com/results?search_query=R.O.C.K.+In+The+U.S.A.+%28A+Salute+to+60%27s+Rock%29+John+Mellencamp+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 42,
+    "date": "1986-04-27",
+    "title": "Secret Lovers",
+    "artist": "Atlantic Starr",
+    "link": "https://www.youtube.com/results?search_query=Secret+Lovers+Atlantic+Starr+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 43,
+    "date": "1986-04-27",
+    "title": "I Can't Wait",
+    "artist": "Stevie Nicks",
+    "link": "https://www.youtube.com/results?search_query=I+Can%27t+Wait+Stevie+Nicks+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 44,
+    "date": "1986-04-27",
+    "title": "A Different Corner",
+    "artist": "George Michael",
+    "link": "https://www.youtube.com/results?search_query=A+Different+Corner+George+Michael+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 45,
+    "date": "1986-04-27",
+    "title": "Right Between The Eyes",
+    "artist": "Wax",
+    "link": "https://www.youtube.com/results?search_query=Right+Between+The+Eyes+Wax+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 46,
+    "date": "1986-04-27",
+    "title": "Restless",
+    "artist": "Starpoint",
+    "link": "https://www.youtube.com/results?search_query=Restless+Starpoint+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 47,
+    "date": "1986-04-27",
+    "title": "These Dreams",
+    "artist": "Heart",
+    "link": "https://www.youtube.com/results?search_query=These+Dreams+Heart+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 48,
+    "date": "1986-04-27",
+    "title": "Where Do The Children Go",
+    "artist": "Hooters",
+    "link": "https://www.youtube.com/results?search_query=Where+Do+The+Children+Go+Hooters+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 49,
+    "date": "1986-04-27",
+    "title": "I Wanna Be A Cowboy",
+    "artist": "Boys Don't Cry",
+    "link": "https://www.youtube.com/results?search_query=I+Wanna+Be+A+Cowboy+Boys+Don%27t+Cry+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 50,
+    "date": "1986-04-27",
+    "title": "Holding Back The Years",
+    "artist": "Simply Red",
+    "link": "https://www.youtube.com/results?search_query=Holding+Back+The+Years+Simply+Red+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 51,
+    "date": "1986-04-27",
+    "title": "Rain On The Scarecrow",
+    "artist": "John Mellencamp",
+    "link": "https://www.youtube.com/results?search_query=Rain+On+The+Scarecrow+John+Mellencamp+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 52,
+    "date": "1986-04-27",
+    "title": "Overjoyed",
+    "artist": "Stevie Wonder",
+    "link": "https://www.youtube.com/results?search_query=Overjoyed+Stevie+Wonder+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 53,
+    "date": "1986-04-27",
+    "title": "Absolute Beginners",
+    "artist": "David Bowie",
+    "link": "https://www.youtube.com/results?search_query=Absolute+Beginners+David+Bowie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 54,
+    "date": "1986-04-27",
+    "title": "Pretty In Pink",
+    "artist": "Psychedelic Furs",
+    "link": "https://www.youtube.com/results?search_query=Pretty+In+Pink+Psychedelic+Furs+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 55,
+    "date": "1986-04-27",
+    "title": "For America",
+    "artist": "Jackson Browne",
+    "link": "https://www.youtube.com/results?search_query=For+America+Jackson+Browne+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 56,
+    "date": "1986-04-27",
+    "title": "Nikita",
+    "artist": "Elton John",
+    "link": "https://www.youtube.com/results?search_query=Nikita+Elton+John+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 57,
+    "date": "1986-04-27",
+    "title": "Vienna Calling",
+    "artist": "Falco",
+    "link": "https://www.youtube.com/results?search_query=Vienna+Calling+Falco+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 58,
+    "date": "1986-04-27",
+    "title": "Call Me",
+    "artist": "Dennis DeYoung",
+    "link": "https://www.youtube.com/results?search_query=Call+Me+Dennis+DeYoung+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 59,
+    "date": "1986-04-27",
+    "title": "Who's Johnny (\"Short Circuit\" Theme)",
+    "artist": "El DeBarge",
+    "link": "https://www.youtube.com/results?search_query=Who%27s+Johnny+%28%22Short+Circuit%22+Theme%29+El+DeBarge+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 60,
+    "date": "1986-04-27",
+    "title": "The Love Parade",
+    "artist": "The Dream Academy",
+    "link": "https://www.youtube.com/results?search_query=The+Love+Parade+The+Dream+Academy+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 61,
+    "date": "1986-04-27",
+    "title": "A Little Bit Of Love (Is All It Takes)",
+    "artist": "New Edition",
+    "link": "https://www.youtube.com/results?search_query=A+Little+Bit+Of+Love+%28Is+All+It+Takes%29+New+Edition+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 62,
+    "date": "1986-04-27",
+    "title": "This Could Be The Night",
+    "artist": "Loverboy",
+    "link": "https://www.youtube.com/results?search_query=This+Could+Be+The+Night+Loverboy+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 63,
+    "date": "1986-04-27",
+    "title": "Tuff Enuff",
+    "artist": "The Fabulous Thunderbirds",
+    "link": "https://www.youtube.com/results?search_query=Tuff+Enuff+The+Fabulous+Thunderbirds+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 64,
+    "date": "1986-04-27",
+    "title": "Sara",
+    "artist": "Starship",
+    "link": "https://www.youtube.com/results?search_query=Sara+Starship+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 65,
+    "date": "1986-04-27",
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "link": "https://www.youtube.com/results?search_query=Live+Is+Life+Opus+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 66,
+    "date": "1986-04-27",
+    "title": "Under The Influence",
+    "artist": "Vanity",
+    "link": "https://www.youtube.com/results?search_query=Under+The+Influence+Vanity+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 67,
+    "date": "1986-04-27",
+    "title": "Your Wildest Dreams",
+    "artist": "The Moody Blues",
+    "link": "https://www.youtube.com/results?search_query=Your+Wildest+Dreams+The+Moody+Blues+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 68,
+    "date": "1986-04-27",
+    "title": "Great Gosh A'mighty (Down & Out In Bev. Hills Theme)",
+    "artist": "Little Richard",
+    "link": "https://www.youtube.com/results?search_query=Great+Gosh+A%27mighty+%28Down+%26+Out+In+Bev.+Hills+Theme%29+Little+Richard+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 69,
+    "date": "1986-04-27",
+    "title": "Hands Across America",
+    "artist": "Voices Of America",
+    "link": "https://www.youtube.com/results?search_query=Hands+Across+America+Voices+Of+America+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 70,
+    "date": "1986-04-27",
+    "title": "Mutual Surrender (What A Wonderful World)",
+    "artist": "Bourgeois Tagg",
+    "link": "https://www.youtube.com/results?search_query=Mutual+Surrender+%28What+A+Wonderful+World%29+Bourgeois+Tagg+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 71,
+    "date": "1986-04-27",
+    "title": "If Your Heart Isn't In It",
+    "artist": "Atlantic Starr",
+    "link": "https://www.youtube.com/results?search_query=If+Your+Heart+Isn%27t+In+It+Atlantic+Starr+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 72,
+    "date": "1986-04-27",
+    "title": "Is That It?",
+    "artist": "Katrina And The Waves",
+    "link": "https://www.youtube.com/results?search_query=Is+That+It%3F+Katrina+And+The+Waves+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 73,
+    "date": "1986-04-27",
+    "title": "Shot in the Dark",
+    "artist": "Ozzy Osbourne",
+    "link": "https://www.youtube.com/results?search_query=Shot+in+the+Dark+Ozzy+Osbourne+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 74,
+    "date": "1986-04-27",
+    "title": "How Will I Know",
+    "artist": "Whitney Houston",
+    "link": "https://www.youtube.com/results?search_query=How+Will+I+Know+Whitney+Houston+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 75,
+    "date": "1986-04-27",
+    "title": "Like No Other Night",
+    "artist": "Thirty Eight Special",
+    "link": "https://www.youtube.com/results?search_query=Like+No+Other+Night+Thirty+Eight+Special+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 76,
+    "date": "1986-04-27",
+    "title": "Working Class Man",
+    "artist": "Jimmy Barnes",
+    "link": "https://www.youtube.com/results?search_query=Working+Class+Man+Jimmy+Barnes+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 77,
+    "date": "1986-04-27",
+    "title": "If You Were A Woman (And I Was A Man)",
+    "artist": "Bonnie Tyler",
+    "link": "https://www.youtube.com/results?search_query=If+You+Were+A+Woman+%28And+I+Was+A+Man%29+Bonnie+Tyler+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 78,
+    "date": "1986-04-27",
+    "title": "No Easy Way Out",
+    "artist": "Robert Tepper",
+    "link": "https://www.youtube.com/results?search_query=No+Easy+Way+Out+Robert+Tepper+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 79,
+    "date": "1986-04-27",
+    "title": "Out Of Mind Out Of Sight",
+    "artist": "Models",
+    "link": "https://www.youtube.com/results?search_query=Out+Of+Mind+Out+Of+Sight+Models+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 80,
+    "date": "1986-04-27",
+    "title": "Calling America",
+    "artist": "Electric Light Orchestra",
+    "link": "https://www.youtube.com/results?search_query=Calling+America+Electric+Light+Orchestra+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 81,
+    "date": "1986-04-27",
+    "title": "Say It, Say It",
+    "artist": "E.G. Daily",
+    "link": "https://www.youtube.com/results?search_query=Say+It%2C+Say+It+E.G.+Daily+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 82,
+    "date": "1986-04-27",
+    "title": "Somebody Somewhere",
+    "artist": "Platinum Blonde",
+    "link": "https://www.youtube.com/results?search_query=Somebody+Somewhere+Platinum+Blonde+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 83,
+    "date": "1986-04-27",
+    "title": "The Heat Of Heat",
+    "artist": "Patti Austin",
+    "link": "https://www.youtube.com/results?search_query=The+Heat+Of+Heat+Patti+Austin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 84,
+    "date": "1986-04-27",
+    "title": "I Must Be Dreaming",
+    "artist": "Giuffria",
+    "link": "https://www.youtube.com/results?search_query=I+Must+Be+Dreaming+Giuffria+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 85,
+    "date": "1986-04-27",
+    "title": "Lead A Double Life",
+    "artist": "Loverboy",
+    "link": "https://www.youtube.com/results?search_query=Lead+A+Double+Life+Loverboy+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 86,
+    "date": "1986-04-27",
+    "title": "Night Moves",
+    "artist": "Marilyn Martin",
+    "link": "https://www.youtube.com/results?search_query=Night+Moves+Marilyn+Martin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 87,
+    "date": "1986-04-27",
+    "title": "Innocent Eyes",
+    "artist": "Graham Nash",
+    "link": "https://www.youtube.com/results?search_query=Innocent+Eyes+Graham+Nash+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 88,
+    "date": "1986-04-27",
+    "title": "Chain Reaction",
+    "artist": "Diana Ross",
+    "link": "https://www.youtube.com/results?search_query=Chain+Reaction+Diana+Ross+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 89,
+    "date": "1986-04-27",
+    "title": "Digging Your Scene",
+    "artist": "The Blow Monkeys",
+    "link": "https://www.youtube.com/results?search_query=Digging+Your+Scene+The+Blow+Monkeys+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 90,
+    "date": "1986-04-27",
+    "title": "Kyrie",
+    "artist": "Mr. Mister",
+    "link": "https://www.youtube.com/results?search_query=Kyrie+Mr.+Mister+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 91,
+    "date": "1986-04-27",
+    "title": "Once In A Lifetime",
+    "artist": "Talking Heads",
+    "link": "https://www.youtube.com/results?search_query=Once+In+A+Lifetime+Talking+Heads+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 92,
+    "date": "1986-04-27",
+    "title": "Whisper In The Dark",
+    "artist": "Dionne Warwick",
+    "link": "https://www.youtube.com/results?search_query=Whisper+In+The+Dark+Dionne+Warwick+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 93,
+    "date": "1986-04-27",
+    "title": "Where Are You Now?",
+    "artist": "Jimmy Harnen With Synch",
+    "link": "https://www.youtube.com/results?search_query=Where+Are+You+Now%3F+Jimmy+Harnen+With+Synch+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 94,
+    "date": "1986-04-27",
+    "title": "King For A Day",
+    "artist": "Thompson Twins",
+    "link": "https://www.youtube.com/results?search_query=King+For+A+Day+Thompson+Twins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 95,
+    "date": "1986-04-27",
+    "title": "Bop",
+    "artist": "Dan Seals",
+    "link": "https://www.youtube.com/results?search_query=Bop+Dan+Seals+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 96,
+    "date": "1986-04-27",
+    "title": "Silent Running (On Dangerous Ground)",
+    "artist": "Mike + The Mechanics",
+    "link": "https://www.youtube.com/results?search_query=Silent+Running+%28On+Dangerous+Ground%29+Mike+%2B+The+Mechanics+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 97,
+    "date": "1986-04-27",
+    "title": "Johnny Come Home",
+    "artist": "Fine Young Cannibals",
+    "link": "https://www.youtube.com/results?search_query=Johnny+Come+Home+Fine+Young+Cannibals+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 98,
+    "date": "1986-04-27",
+    "title": "Living In The Background",
+    "artist": "Baltimora",
+    "link": "https://www.youtube.com/results?search_query=Living+In+The+Background+Baltimora+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 99,
+    "date": "1986-04-27",
+    "title": "The Power Of Love",
+    "artist": "Jennifer Rush",
+    "link": "https://www.youtube.com/results?search_query=The+Power+Of+Love+Jennifer+Rush+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 100,
+    "date": "1986-04-27",
+    "title": "When The Going Gets Tough, The Tough Get Going",
+    "artist": "Billy Ocean",
+    "link": "https://www.youtube.com/results?search_query=When+The+Going+Gets+Tough%2C+The+Tough+Get+Going+Billy+Ocean+MTV&sp=CAM%253D"
+  }
+]

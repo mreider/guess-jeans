@@ -1,24 +1,26 @@
 require 'spec_helper'
 
 describe Scraper do
-
-    it "gets the billboard top 100 for the 1st week of April in 1986" do
+    it "gets the billboard top 100 for Feb 11th 1984" do
         scraper = Scraper.new
-        songs = scraper.scrape(1986,14)
+        date = Date.iso8601("1984-02-11")
+        songs = scraper.scrape(date)
         expect(songs.length).to eq(100)
     end
 
-    it "checks that Rock me Amadeus is number 1" do
+    it "checks that Karma Chameleon is number 1" do
         scraper = Scraper.new
-        songs = scraper.scrape(1986,14)
-        expect(songs[0]['title']).to eq("Rock Me Amadeus")
+        date = Date.iso8601("1984-02-11")
+        songs = scraper.scrape(date)
+        expect(songs[0]['title']).to eq("Karma Chameleon")
     end
 
     it "gets some videos back from YouTube" do
         scraper = Scraper.new
-        songs = scraper.scrape(1986,14)
+        date = Date.iso8601("1986-04-19")
+        songs = scraper.scrape(date)
         vids = scraper.get_vids(songs)
         vids_json = JSON.parse(vids.body)
-        puts vids_json
+        expect(vids_json["kind"]).to eq("youtube#searchListResponse")
     end
 end

@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "date": "1983-05-01",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "link": "https://www.youtube.com/results?search_query=Beat+It+Michael+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 2,
+    "date": "1983-05-01",
+    "title": "Jeopardy",
+    "artist": "Greg Kihn Band",
+    "link": "https://www.youtube.com/results?search_query=Jeopardy+Greg+Kihn+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 3,
+    "date": "1983-05-01",
+    "title": "Let's Dance",
+    "artist": "David Bowie",
+    "link": "https://www.youtube.com/results?search_query=Let%27s+Dance+David+Bowie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 4,
+    "date": "1983-05-01",
+    "title": "Come On Eileen",
+    "artist": "Dexys Midnight Runners",
+    "link": "https://www.youtube.com/results?search_query=Come+On+Eileen+Dexys+Midnight+Runners+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 5,
+    "date": "1983-05-01",
+    "title": "Der Kommissar",
+    "artist": "After The Fire",
+    "link": "https://www.youtube.com/results?search_query=Der+Kommissar+After+The+Fire+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 6,
+    "date": "1983-05-01",
+    "title": "Overkill",
+    "artist": "Men At Work",
+    "link": "https://www.youtube.com/results?search_query=Overkill+Men+At+Work+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 7,
+    "date": "1983-05-01",
+    "title": "She Blinded Me With Science",
+    "artist": "Thomas Dolby",
+    "link": "https://www.youtube.com/results?search_query=She+Blinded+Me+With+Science+Thomas+Dolby+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 8,
+    "date": "1983-05-01",
+    "title": "Mr. Roboto",
+    "artist": "Styx",
+    "link": "https://www.youtube.com/results?search_query=Mr.+Roboto+Styx+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 9,
+    "date": "1983-05-01",
+    "title": "Little Red Corvette",
+    "artist": "Prince",
+    "link": "https://www.youtube.com/results?search_query=Little+Red+Corvette+Prince+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 10,
+    "date": "1983-05-01",
+    "title": "I Won't Hold You Back",
+    "artist": "Toto",
+    "link": "https://www.youtube.com/results?search_query=I+Won%27t+Hold+You+Back+Toto+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 11,
+    "date": "1983-05-01",
+    "title": "Solitaire",
+    "artist": "Laura Branigan",
+    "link": "https://www.youtube.com/results?search_query=Solitaire+Laura+Branigan+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 12,
+    "date": "1983-05-01",
+    "title": "Even Now",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "link": "https://www.youtube.com/results?search_query=Even+Now+Bob+Seger+%26+The+Silver+Bullet+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 13,
+    "date": "1983-05-01",
+    "title": "Flashdance...What A Feeling",
+    "artist": "Irene Cara",
+    "link": "https://www.youtube.com/results?search_query=Flashdance...What+A+Feeling+Irene+Cara+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 14,
+    "date": "1983-05-01",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "link": "https://www.youtube.com/results?search_query=Billie+Jean+Michael+Jackson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 15,
+    "date": "1983-05-01",
+    "title": "Photograph",
+    "artist": "Def Leppard",
+    "link": "https://www.youtube.com/results?search_query=Photograph+Def+Leppard+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 16,
+    "date": "1983-05-01",
+    "title": "Rio",
+    "artist": "Duran Duran",
+    "link": "https://www.youtube.com/results?search_query=Rio+Duran+Duran+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 17,
+    "date": "1983-05-01",
+    "title": "My Love",
+    "artist": "Lionel Richie",
+    "link": "https://www.youtube.com/results?search_query=My+Love+Lionel+Richie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 18,
+    "date": "1983-05-01",
+    "title": "Straight From The Heart",
+    "artist": "Bryan Adams",
+    "link": "https://www.youtube.com/results?search_query=Straight+From+The+Heart+Bryan+Adams+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 19,
+    "date": "1983-05-01",
+    "title": "Time (Clock Of The Heart)",
+    "artist": "Culture Club",
+    "link": "https://www.youtube.com/results?search_query=Time+%28Clock+Of+The+Heart%29+Culture+Club+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 20,
+    "date": "1983-05-01",
+    "title": "Affair Of The Heart",
+    "artist": "Rick Springfield",
+    "link": "https://www.youtube.com/results?search_query=Affair+Of+The+Heart+Rick+Springfield+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 21,
+    "date": "1983-05-01",
+    "title": "Separate Ways (Worlds Apart)",
+    "artist": "Journey",
+    "link": "https://www.youtube.com/results?search_query=Separate+Ways+%28Worlds+Apart%29+Journey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 22,
+    "date": "1983-05-01",
+    "title": "Mornin'",
+    "artist": "Jarreau",
+    "link": "https://www.youtube.com/results?search_query=Mornin%27+Jarreau+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 23,
+    "date": "1983-05-01",
+    "title": "Faithfully",
+    "artist": "Journey",
+    "link": "https://www.youtube.com/results?search_query=Faithfully+Journey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 24,
+    "date": "1983-05-01",
+    "title": "Welcome To Heartlight",
+    "artist": "Kenny Loggins",
+    "link": "https://www.youtube.com/results?search_query=Welcome+To+Heartlight+Kenny+Loggins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 25,
+    "date": "1983-05-01",
+    "title": "It Might Be You",
+    "artist": "Stephen Bishop",
+    "link": "https://www.youtube.com/results?search_query=It+Might+Be+You+Stephen+Bishop+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 26,
+    "date": "1983-05-01",
+    "title": "Some Kind Of Friend",
+    "artist": "Barry Manilow",
+    "link": "https://www.youtube.com/results?search_query=Some+Kind+Of+Friend+Barry+Manilow+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 27,
+    "date": "1983-05-01",
+    "title": "Don't Let It End",
+    "artist": "Styx",
+    "link": "https://www.youtube.com/results?search_query=Don%27t+Let+It+End+Styx+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 28,
+    "date": "1983-05-01",
+    "title": "Always Something There To Remind Me",
+    "artist": "Naked Eyes",
+    "link": "https://www.youtube.com/results?search_query=Always+Something+There+To+Remind+Me+Naked+Eyes+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 29,
+    "date": "1983-05-01",
+    "title": "Stranger In My House",
+    "artist": "Ronnie Milsap",
+    "link": "https://www.youtube.com/results?search_query=Stranger+In+My+House+Ronnie+Milsap+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 30,
+    "date": "1983-05-01",
+    "title": "So Wrong",
+    "artist": "Patrick Simmons",
+    "link": "https://www.youtube.com/results?search_query=So+Wrong+Patrick+Simmons+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 31,
+    "date": "1983-05-01",
+    "title": "One On One",
+    "artist": "Daryl Hall John Oates",
+    "link": "https://www.youtube.com/results?search_query=One+On+One+Daryl+Hall+John+Oates+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 32,
+    "date": "1983-05-01",
+    "title": "Family Man",
+    "artist": "Daryl Hall John Oates",
+    "link": "https://www.youtube.com/results?search_query=Family+Man+Daryl+Hall+John+Oates+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 33,
+    "date": "1983-05-01",
+    "title": "Hungry Like The Wolf",
+    "artist": "Duran Duran",
+    "link": "https://www.youtube.com/results?search_query=Hungry+Like+The+Wolf+Duran+Duran+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 34,
+    "date": "1983-05-01",
+    "title": "Do You Really Want To Hurt Me",
+    "artist": "Culture Club",
+    "link": "https://www.youtube.com/results?search_query=Do+You+Really+Want+To+Hurt+Me+Culture+Club+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 35,
+    "date": "1983-05-01",
+    "title": "I Couldn't Say No",
+    "artist": "Robert Ellis Orral With Carlene Carter",
+    "link": "https://www.youtube.com/results?search_query=I+Couldn%27t+Say+No+Robert+Ellis+Orral+With+Carlene+Carter+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 36,
+    "date": "1983-05-01",
+    "title": "We've Got Tonight",
+    "artist": "Kenny Rogers And Sheena Easton",
+    "link": "https://www.youtube.com/results?search_query=We%27ve+Got+Tonight+Kenny+Rogers+And+Sheena+Easton+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 37,
+    "date": "1983-05-01",
+    "title": "She's A Beauty",
+    "artist": "The Tubes",
+    "link": "https://www.youtube.com/results?search_query=She%27s+A+Beauty+The+Tubes+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 38,
+    "date": "1983-05-01",
+    "title": "You Are",
+    "artist": "Lionel Richie",
+    "link": "https://www.youtube.com/results?search_query=You+Are+Lionel+Richie+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 39,
+    "date": "1983-05-01",
+    "title": "Whirly Girl",
+    "artist": "Oxo",
+    "link": "https://www.youtube.com/results?search_query=Whirly+Girl+Oxo+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 40,
+    "date": "1983-05-01",
+    "title": "Gimme All Your Lovin",
+    "artist": "ZZ Top",
+    "link": "https://www.youtube.com/results?search_query=Gimme+All+Your+Lovin+ZZ+Top+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 41,
+    "date": "1983-05-01",
+    "title": "I Know There's Something Going On",
+    "artist": "Frida",
+    "link": "https://www.youtube.com/results?search_query=I+Know+There%27s+Something+Going+On+Frida+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 42,
+    "date": "1983-05-01",
+    "title": "Try Again",
+    "artist": "Champaign",
+    "link": "https://www.youtube.com/results?search_query=Try+Again+Champaign+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 43,
+    "date": "1983-05-01",
+    "title": "Twilight Zone",
+    "artist": "Golden Earring",
+    "link": "https://www.youtube.com/results?search_query=Twilight+Zone+Golden+Earring+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 44,
+    "date": "1983-05-01",
+    "title": "I Like It",
+    "artist": "Debarge",
+    "link": "https://www.youtube.com/results?search_query=I+Like+It+Debarge+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 45,
+    "date": "1983-05-01",
+    "title": "Back On The Chain Gang",
+    "artist": "Pretenders",
+    "link": "https://www.youtube.com/results?search_query=Back+On+The+Chain+Gang+Pretenders+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 46,
+    "date": "1983-05-01",
+    "title": "The One Thing",
+    "artist": "INXS",
+    "link": "https://www.youtube.com/results?search_query=The+One+Thing+INXS+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 47,
+    "date": "1983-05-01",
+    "title": "Minimum Love",
+    "artist": "Mac McAnally",
+    "link": "https://www.youtube.com/results?search_query=Minimum+Love+Mac+McAnally+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 48,
+    "date": "1983-05-01",
+    "title": "Never Gonna Let You Go",
+    "artist": "Sergio Mendes",
+    "link": "https://www.youtube.com/results?search_query=Never+Gonna+Let+You+Go+Sergio+Mendes+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 49,
+    "date": "1983-05-01",
+    "title": "Swingin'",
+    "artist": "John Anderson",
+    "link": "https://www.youtube.com/results?search_query=Swingin%27+John+Anderson+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 50,
+    "date": "1983-05-01",
+    "title": "Too Shy",
+    "artist": "Kajagoogoo",
+    "link": "https://www.youtube.com/results?search_query=Too+Shy+Kajagoogoo+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 51,
+    "date": "1983-05-01",
+    "title": "Looking For A Stranger",
+    "artist": "Pat Benatar",
+    "link": "https://www.youtube.com/results?search_query=Looking+For+A+Stranger+Pat+Benatar+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 52,
+    "date": "1983-05-01",
+    "title": "Fool Moon Fire",
+    "artist": "Walter Egan",
+    "link": "https://www.youtube.com/results?search_query=Fool+Moon+Fire+Walter+Egan+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 53,
+    "date": "1983-05-01",
+    "title": "Smiling Islands",
+    "artist": "Robbie Patton",
+    "link": "https://www.youtube.com/results?search_query=Smiling+Islands+Robbie+Patton+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 54,
+    "date": "1983-05-01",
+    "title": "Sing Me Away",
+    "artist": "Night Ranger",
+    "link": "https://www.youtube.com/results?search_query=Sing+Me+Away+Night+Ranger+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 55,
+    "date": "1983-05-01",
+    "title": "Never Give Up",
+    "artist": "Sammy Hagar",
+    "link": "https://www.youtube.com/results?search_query=Never+Give+Up+Sammy+Hagar+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 56,
+    "date": "1983-05-01",
+    "title": "I'm Still Standing",
+    "artist": "Elton John",
+    "link": "https://www.youtube.com/results?search_query=I%27m+Still+Standing+Elton+John+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 57,
+    "date": "1983-05-01",
+    "title": "New Year's Day",
+    "artist": "U2",
+    "link": "https://www.youtube.com/results?search_query=New+Year%27s+Day+U2+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 58,
+    "date": "1983-05-01",
+    "title": "You Can't Run From Love",
+    "artist": "Eddie Rabbitt",
+    "link": "https://www.youtube.com/results?search_query=You+Can%27t+Run+From+Love+Eddie+Rabbitt+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 59,
+    "date": "1983-05-01",
+    "title": "No Time For Talk",
+    "artist": "Christopher Cross",
+    "link": "https://www.youtube.com/results?search_query=No+Time+For+Talk+Christopher+Cross+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 60,
+    "date": "1983-05-01",
+    "title": "Electric Avenue",
+    "artist": "Eddy Grant",
+    "link": "https://www.youtube.com/results?search_query=Electric+Avenue+Eddy+Grant+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 61,
+    "date": "1983-05-01",
+    "title": "All This Love",
+    "artist": "Debarge",
+    "link": "https://www.youtube.com/results?search_query=All+This+Love+Debarge+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 62,
+    "date": "1983-05-01",
+    "title": "Love's Got A Line On You",
+    "artist": "Scandal Featuring Patty Smyth",
+    "link": "https://www.youtube.com/results?search_query=Love%27s+Got+A+Line+On+You+Scandal+Featuring+Patty+Smyth+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 63,
+    "date": "1983-05-01",
+    "title": "Cool Places",
+    "artist": "Sparks & Jane Wiedlin",
+    "link": "https://www.youtube.com/results?search_query=Cool+Places+Sparks+%26+Jane+Wiedlin+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 64,
+    "date": "1983-05-01",
+    "title": "Wind Him Up",
+    "artist": "Saga",
+    "link": "https://www.youtube.com/results?search_query=Wind+Him+Up+Saga+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 65,
+    "date": "1983-05-01",
+    "title": "Easy For You To Say",
+    "artist": "Linda Ronstadt",
+    "link": "https://www.youtube.com/results?search_query=Easy+For+You+To+Say+Linda+Ronstadt+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 66,
+    "date": "1983-05-01",
+    "title": "I Eat Cannibals",
+    "artist": "Total Coelo",
+    "link": "https://www.youtube.com/results?search_query=I+Eat+Cannibals+Total+Coelo+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 67,
+    "date": "1983-05-01",
+    "title": "All My Life",
+    "artist": "Kenny Rogers",
+    "link": "https://www.youtube.com/results?search_query=All+My+Life+Kenny+Rogers+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 68,
+    "date": "1983-05-01",
+    "title": "Why Me?",
+    "artist": "Planet P",
+    "link": "https://www.youtube.com/results?search_query=Why+Me%3F+Planet+P+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 69,
+    "date": "1983-05-01",
+    "title": "Don't Pay The Ferryman",
+    "artist": "Chris de Burgh",
+    "link": "https://www.youtube.com/results?search_query=Don%27t+Pay+The+Ferryman+Chris+de+Burgh+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 70,
+    "date": "1983-05-01",
+    "title": "That's Love",
+    "artist": "Jim Capaldi",
+    "link": "https://www.youtube.com/results?search_query=That%27s+Love+Jim+Capaldi+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 71,
+    "date": "1983-05-01",
+    "title": "Front Page Story",
+    "artist": "Neil Diamond",
+    "link": "https://www.youtube.com/results?search_query=Front+Page+Story+Neil+Diamond+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 72,
+    "date": "1983-05-01",
+    "title": "Love On Your Side",
+    "artist": "Thompson Twins",
+    "link": "https://www.youtube.com/results?search_query=Love+On+Your+Side+Thompson+Twins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 73,
+    "date": "1983-05-01",
+    "title": "I've Got A Rock N' Roll Heart",
+    "artist": "Eric Clapton",
+    "link": "https://www.youtube.com/results?search_query=I%27ve+Got+A+Rock+N%27+Roll+Heart+Eric+Clapton+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 74,
+    "date": "1983-05-01",
+    "title": "We Two",
+    "artist": "Little River Band",
+    "link": "https://www.youtube.com/results?search_query=We+Two+Little+River+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 75,
+    "date": "1983-05-01",
+    "title": "Take The Short Way Home",
+    "artist": "Dionne Warwick",
+    "link": "https://www.youtube.com/results?search_query=Take+The+Short+Way+Home+Dionne+Warwick+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 76,
+    "date": "1983-05-01",
+    "title": "Our House",
+    "artist": "Madness",
+    "link": "https://www.youtube.com/results?search_query=Our+House+Madness+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 77,
+    "date": "1983-05-01",
+    "title": "Do You Wanna Hold Me?",
+    "artist": "Bow Wow Wow",
+    "link": "https://www.youtube.com/results?search_query=Do+You+Wanna+Hold+Me%3F+Bow+Wow+Wow+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 78,
+    "date": "1983-05-01",
+    "title": "Bang The Drum All Day",
+    "artist": "Todd Rundgren",
+    "link": "https://www.youtube.com/results?search_query=Bang+The+Drum+All+Day+Todd+Rundgren+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 79,
+    "date": "1983-05-01",
+    "title": "The Devil Made Me Do It",
+    "artist": "Golden Earring",
+    "link": "https://www.youtube.com/results?search_query=The+Devil+Made+Me+Do+It+Golden+Earring+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 80,
+    "date": "1983-05-01",
+    "title": "Reap The Wild Wind",
+    "artist": "Ultravox",
+    "link": "https://www.youtube.com/results?search_query=Reap+The+Wild+Wind+Ultravox+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 81,
+    "date": "1983-05-01",
+    "title": "Sign Of The Times",
+    "artist": "The Belle Stars",
+    "link": "https://www.youtube.com/results?search_query=Sign+Of+The+Times+The+Belle+Stars+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 82,
+    "date": "1983-05-01",
+    "title": "Mexican Radio",
+    "artist": "Wall Of Voodoo",
+    "link": "https://www.youtube.com/results?search_query=Mexican+Radio+Wall+Of+Voodoo+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 83,
+    "date": "1983-05-01",
+    "title": "Ricky",
+    "artist": "\"Weird Al\" Yankovic",
+    "link": "https://www.youtube.com/results?search_query=Ricky+%22Weird+Al%22+Yankovic+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 84,
+    "date": "1983-05-01",
+    "title": "Tonight",
+    "artist": "The Whispers",
+    "link": "https://www.youtube.com/results?search_query=Tonight+The+Whispers+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 85,
+    "date": "1983-05-01",
+    "title": "Where Everybody Knows Your Name (The Theme From \"Cheers\")",
+    "artist": "Gary Portnoy",
+    "link": "https://www.youtube.com/results?search_query=Where+Everybody+Knows+Your+Name+%28The+Theme+From+%22Cheers%22%29+Gary+Portnoy+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 86,
+    "date": "1983-05-01",
+    "title": "Make Love Stay",
+    "artist": "Dan Fogelberg",
+    "link": "https://www.youtube.com/results?search_query=Make+Love+Stay+Dan+Fogelberg+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 87,
+    "date": "1983-05-01",
+    "title": "The Walls Came Down",
+    "artist": "The Call",
+    "link": "https://www.youtube.com/results?search_query=The+Walls+Came+Down+The+Call+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 88,
+    "date": "1983-05-01",
+    "title": "Candy Girl",
+    "artist": "New Edition",
+    "link": "https://www.youtube.com/results?search_query=Candy+Girl+New+Edition+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 89,
+    "date": "1983-05-01",
+    "title": "The Closer You Get",
+    "artist": "Alabama",
+    "link": "https://www.youtube.com/results?search_query=The+Closer+You+Get+Alabama+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 90,
+    "date": "1983-05-01",
+    "title": "Come Dancing",
+    "artist": "The Kinks",
+    "link": "https://www.youtube.com/results?search_query=Come+Dancing+The+Kinks+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 91,
+    "date": "1983-05-01",
+    "title": "Shame On The Moon",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "link": "https://www.youtube.com/results?search_query=Shame+On+The+Moon+Bob+Seger+%26+The+Silver+Bullet+Band+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 92,
+    "date": "1983-05-01",
+    "title": "Change Of Heart",
+    "artist": "Tom Petty And The Heartbreakers",
+    "link": "https://www.youtube.com/results?search_query=Change+Of+Heart+Tom+Petty+And+The+Heartbreakers+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 93,
+    "date": "1983-05-01",
+    "title": "I Melt With You",
+    "artist": "Modern English",
+    "link": "https://www.youtube.com/results?search_query=I+Melt+With+You+Modern+English+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 94,
+    "date": "1983-05-01",
+    "title": "Love My Way",
+    "artist": "Psychedelic Furs",
+    "link": "https://www.youtube.com/results?search_query=Love+My+Way+Psychedelic+Furs+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 95,
+    "date": "1983-05-01",
+    "title": "Poison Arrow",
+    "artist": "ABC",
+    "link": "https://www.youtube.com/results?search_query=Poison+Arrow+ABC+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 96,
+    "date": "1983-05-01",
+    "title": "All Right",
+    "artist": "Christopher Cross",
+    "link": "https://www.youtube.com/results?search_query=All+Right+Christopher+Cross+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 97,
+    "date": "1983-05-01",
+    "title": "I Won't Be Home Tonight",
+    "artist": "Tony Carey",
+    "link": "https://www.youtube.com/results?search_query=I+Won%27t+Be+Home+Tonight+Tony+Carey+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 98,
+    "date": "1983-05-01",
+    "title": "Lies",
+    "artist": "Thompson Twins",
+    "link": "https://www.youtube.com/results?search_query=Lies+Thompson+Twins+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 99,
+    "date": "1983-05-01",
+    "title": "Fall In Love With Me",
+    "artist": "Earth, Wind & Fire",
+    "link": "https://www.youtube.com/results?search_query=Fall+In+Love+With+Me+Earth%2C+Wind+%26+Fire+MTV&sp=CAM%253D"
+  },
+  {
+    "rank": 100,
+    "date": "1983-05-01",
+    "title": "Little Too Late",
+    "artist": "Pat Benatar",
+    "link": "https://www.youtube.com/results?search_query=Little+Too+Late+Pat+Benatar+MTV&sp=CAM%253D"
+  }
+]
